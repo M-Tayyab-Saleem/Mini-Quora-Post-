@@ -2,7 +2,7 @@
   "engines":{
     "node": "20.17.0"
   },
-  "name": "rest_api",
+  "name": "rest-api's",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
