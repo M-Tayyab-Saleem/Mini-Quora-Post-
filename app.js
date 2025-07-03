@@ -19,18 +19,18 @@ app.use(methodOverride('_method'))
 let posts = [
     {
         id : uuidv4(),
-        username : "mtayyabsaleem",
-        content: "Habits are keys of success",
+        username : "saimasaleem",
+        content: "Passionate about learning and self-growth.",
     },
     {
         id :uuidv4(),
         username : "tariqhussain",
-        content: "Cricket is my love",
+        content: "Always brings great energy to the team.",
     },
     {
         id:uuidv4(),
-        username : "rabeetahmer",
-        content: "I have selected for internship",
+        username : "tayyabsaleem",
+        content: "Great at team collaboration and communication.",
     }
 ];
 app.get("/posts",(req,res)=>{
